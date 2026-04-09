@@ -1,5 +1,5 @@
 # Online-Texas-Hold-em-source-code
-德州游戏，德州大厅源码，德州源码，德州私人局+联盟源码，里面多个德州游戏源码。产量质量高，刚刚停服没多全套源码出；联系Telegram：@xuzongbin001； 邮箱：ttpoker733@gmail.com；
+德州游戏，德州大厅源码，德州源码，德州私人局+联盟源码，里面多个德州游戏源码。产量质量高，刚刚停服没多全套源码出；联系Telegram：@alibabama401； 邮箱：ttpoker733@gmail.com；
 
 
 ![11](https://github.com/user-attachments/assets/47fc4150-5b49-44f4-b7c9-b22401705216)
