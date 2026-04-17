@@ -1,3 +1,12 @@
+## 🚀 Why This Project
+
+Compared to typical multiplayer poker demos:
+
+- More scalable architecture
+- Real-time synchronization design
+- Modular backend system
+
+Designed not just for demos, but for building real-world game systems.
 A real-time multiplayer poker engine designed for scalable game backend systems.
 
 Keywords: multiplayer game, poker engine, real-time server, WebSocket, game architecture
@@ -116,7 +125,27 @@ Example gameplay setup:
 *   **备用邮箱**：ttpoker733@gmail.com
 
 
----
+## 💡 Problems It Solves
+
+- How to handle real-time multiplayer synchronization  
+- How to manage multiple game rooms  
+- How to structure scalable game backend systems
+## 🧩 System Capabilities
+
+- Multi-room real-time game handling  
+- Server-side game state control  
+- AI player simulation support  
+- Extensible game logic architecture
+## 👥 Who Is This For
+
+- Developers learning multiplayer game architecture  
+- Teams building real-time game systems  
+- Researchers exploring poker AI  
+## 📊 Design Goals
+
+- Low-latency real-time communication  
+- Consistent game state across players  
+- Scalable architecture for concurrent sessions  
 
 ## 🌐 Professional
 
