@@ -1,4 +1,96 @@
 ![11](https://github.com/user-attachments/assets/47fc4150-5b49-44f4-b7c9-b22401705216)
+# 🃏 德州扑克源码 | 德州俱乐部源码 | 德州扑克服务器引擎
+
+**德州源码 · 德州联盟源码 · 德州私人局 · 德州朋友局源码**  
+实时多人**德州扑克**高并发服务器引擎（C++ + WebSocket），支持私人局/朋友局/俱乐部/联盟模式
+
+**Texas Hold'em Multiplayer Poker Source Code** | **Real-time Multiplayer Poker Server Engine** | Scalable Game Backend
+
+[![Stars](https://img.shields.io/github/stars/pokerdeveloper/dezhou-poker-source-code.svg)](https://github.com/pokerdeveloper/dezhou-poker-source-code/stargazers)
+[![Forks](https://img.shields.io/github/forks/pokerdeveloper/dezhou-poker-source-code.svg)](https://github.com/pokerdeveloper/dezhou-poker-source-code/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## ✨ 项目核心亮点
+
+- **服务器权威架构**：所有游戏逻辑在服务端执行，有效防止作弊和外挂
+- **高并发实时通信**：基于 WebSocket 低延迟同步，支持高并发多人对战
+- **完整德州支持**：经典德州（9人/6人桌）、私人局、朋友局、俱乐部/联盟模式
+- **AI Bot 支持**：内置智能机器人，用于测试或自动填充桌位
+- **模块化高扩展**：C++ 代码结构清晰，易于二次开发和功能扩展
+- **数据持久化**：支持手牌记录、玩家行为日志，便于反作弊和数据分析
+
+> **⚠️ 重要声明**：本项目**仅供学习和研究使用**，严格禁止用于任何真实货币赌博。商业使用请自行遵守当地法律法规，作者不承担任何法律责任。
+
+---
+
+## 📸 项目截图（真实界面展示）
+
+![德州扑克游戏大厅](screenshots/03178711F04324F5D4A10564B9708E18.jpg)
+
+![登录界面](screenshots/0FC579ED11E86A65C3FE6024EC105B8B.jpg)
+
+![创建牌局](screenshots/129F44A3ACE1A193043E93ADFEF66EF0.jpg)
+
+![MTT打牌房间](screenshots/19F73728400F466D1B26B09E04E062FC.jpg)
+
+![创建联盟](screenshots/374AE612FE1D4C01FD716C3D6E3753C8.jpg)
+
+![游戏对战场景](screenshots/3A54764D72CEBB70A5A80965A93C3ACC.jpg)
+
+![房间管理界面](screenshots/5E679337A03783B8AF3653C018F1D959.jpg)
+
+![更多功能展示](screenshots/84E607B21587F105FEC5D0FF009746ED.jpg)
+
+![额外游戏界面](screenshots/8ABCFEB5516352EE96F77272B39FCF45.jpg)
+
+![联盟与俱乐部](screenshots/B578474D3E2935735437109224188836.jpg)
+
+---
+
+## 🚀 快速开始
+
+**Docker 一键启动**（推荐新手）：
+
+git clone https://github.com/pokerdeveloper/dezhou-poker-source-code.git
+cd dezhou-poker-source-code
+docker-compose up -d
+源码编译运行：
+mkdir build && cd build
+cmake .. -DCMAKE_BUILD_TYPE=Release
+make -j8
+./poker_server
+****
+详细编译、配置和协议文档请查看 docs/ 目录
+
+
+##📈 未来路线图
+
+支持更多扑克变体（奥马哈、短牌等）
+增加 SNG/MTT 锦标赛完整流程
+优化分布式部署与高并发性能
+提供 Unity / Web 示例客户端
+
+欢迎 Issue 反馈和 Pull Request 贡献！
+
+##📞 联系方式
+
+Telegram：@alibabama401
+Email：ttpoker733@gmail.com
+
+欢迎技术交流、部署咨询或合作讨论。
+
+##⭐ 支持项目
+如果你觉得这个德州扑克源码有帮助，欢迎 Star 支持！
+
+
+再次声明：本仓库为开源学习项目，不包含任何支付或真实赌博功能。请遵守当地法律法规，合理使用。
+
+
+
+
+
 # Real-time Multiplayer Poker Game | 实时多人扑克游戏引擎|完整德州扑克源码 | 俱乐部/金币场双模式 | 支持二开与部署
 # 🃏 完整德州扑克源码 | 俱乐部/金币场双模式 | 高并发架构
 
