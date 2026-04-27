@@ -1,15 +1,4 @@
-## 🚀 Why This Project
-
-Compared to typical multiplayer poker demos:
-
-- More scalable architecture
-- Real-time synchronization design
-- Modular backend system
-
-Designed not just for demos, but for building real-world game systems.
-A real-time multiplayer poker engine designed for scalable game backend systems.
-
-Keywords: multiplayer game, poker engine, real-time server, WebSocket, game architecture
+![11](https://github.com/user-attachments/assets/47fc4150-5b49-44f4-b7c9-b22401705216)
 # Real-time Multiplayer Poker Game | 实时多人扑克游戏引擎|完整德州扑克源码 | 俱乐部/金币场双模式 | 支持二开与部署
 # 🃏 完整德州扑克源码 | 俱乐部/金币场双模式 | 高并发架构
 
@@ -160,8 +149,19 @@ Example gameplay setup:
 
 - Low-latency real-time communication  
 - Consistent game state across players  
-- Scalable architecture for concurrent sessions  
+- Scalable architecture for concurrent sessions
+## 🚀 Why This Project
 
+Compared to typical multiplayer poker demos:
+
+- More scalable architecture
+- Real-time synchronization design
+- Modular backend system
+
+Designed not just for demos, but for building real-world game systems.
+A real-time multiplayer poker engine designed for scalable game backend systems.
+
+Keywords: multiplayer game, poker engine, real-time server, WebSocket, game architecture
 ## 🌐 Professional
 
 This project focuses on real-time game architecture and system design.
